@@ -1,0 +1,12 @@
+Após realizar a ativação do tema no painel, navegar até a opção MENU e efetuar a criação dos seguintes menus:
+
+	1 - 'links'.
+	2 - 'dropdown'.
+	3 - 'mobile'.
+
+
+1 - Links - Esse menu é responsavel pelos links ex: Página Inicial, Sobre, Fale Conosco.
+
+2 - Dropdown - Responsavel pelo gerenciamentos dos links de categorias ao clicar no botao dropdown do menu principal.
+
+3 - Mobile - Responsavel pelo gerenciamentos dos links de categorias ao clicar no menu no acesso mobile.
